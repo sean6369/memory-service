@@ -19,6 +19,9 @@ build/
 *.swp
 *.swo
 
+# Blob storage (local filesystem for MVP)
+blob_storage/
+
 # OS
 .DS_Store
 Thumbs.db
